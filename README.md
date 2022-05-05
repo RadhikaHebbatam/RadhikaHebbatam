@@ -1,7 +1,7 @@
  👋 Hi, I’m @RadhikaHebbatam
  👀 I’m interested in Data analysis
- 🌱 I’m currently learning Different BI Tools SSIS,SSAS,SSRS,PowerBI,SQL
- 💞️ I’m actively learning business intelligence tools and creating different projects on that.
+ 🌱 my skills are BI Tools SSIS,SSAS,SSRS,PowerBI,SQL,Power BI Service,Power Report server,Power BI  Mobile report Publisher,DAX,Data Warehouse Design,power query,Powerview,power pivot.
+ 💞️ I’m actively working on different business intelligence and power bi projects and updating them on my github on time to time basis.
 
 
 <!---
